@@ -1,0 +1,8 @@
+# VtekDevelopmentSuit Distribution Repository Gitignore
+.deb-staging*
+.dmg-staging*
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+node_modules/

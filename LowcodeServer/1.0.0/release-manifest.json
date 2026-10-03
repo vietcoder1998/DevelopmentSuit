@@ -1,0 +1,56 @@
+{
+  "projectName": "LowcodeServer",
+  "appName": "lowcodeserver",
+  "displayName": "LowcodeServer Fullstack Generator Service",
+  "version": "1.0.0",
+  "buildTimestamp": "2026-10-03T03:24:00.112Z",
+  "distributionChannel": "stable",
+  "structureFormat": "downloads/VtekDevelopmentSuit/{app}/{version}/{name}.{type}",
+  "outputDirectory": "/home/viettd/Projects/2tek-developement-packs/downloads/VtekDevelopmentSuit/LowcodeServer/1.0.0",
+  "packages": [
+    {
+      "platform": "linux",
+      "architecture": "amd64",
+      "type": "deb",
+      "name": "LowcodeServer-1.0.0",
+      "fileName": "LowcodeServer-1.0.0.deb",
+      "downloadPath": "downloads/VtekDevelopmentSuit/LowcodeServer/1.0.0/LowcodeServer-1.0.0.deb",
+      "sizeBytes": 16354,
+      "sizeFormatted": "16.0 KB",
+      "sha256": "598dbfbac87a4d9befc10b29b8b9ba8fa46603c86fdf93175535ddd4d6d2a583"
+    },
+    {
+      "platform": "windows",
+      "architecture": "x64",
+      "type": "exe",
+      "name": "LowcodeServer-1.0.0",
+      "fileName": "LowcodeServer-1.0.0.exe",
+      "downloadPath": "downloads/VtekDevelopmentSuit/LowcodeServer/1.0.0/LowcodeServer-1.0.0.exe",
+      "sizeBytes": 12288,
+      "sizeFormatted": "12.0 KB",
+      "sha256": "eb8dde176dc46d3f0450ea4f326e90c106327736cf6f399c18396bdac2475bff"
+    },
+    {
+      "platform": "macos",
+      "architecture": "universal",
+      "type": "dmg",
+      "name": "LowcodeServer-1.0.0",
+      "fileName": "LowcodeServer-1.0.0.dmg",
+      "downloadPath": "downloads/VtekDevelopmentSuit/LowcodeServer/1.0.0/LowcodeServer-1.0.0.dmg",
+      "sizeBytes": 9503,
+      "sizeFormatted": "9.3 KB",
+      "sha256": "a7ea5211ed14e9f97753ecef83eb4f264f505f08cd2cd9b92ba945a69648cdac"
+    },
+    {
+      "platform": "universal",
+      "architecture": "all",
+      "type": "zip",
+      "name": "LowcodeServer-1.0.0",
+      "fileName": "LowcodeServer-1.0.0.zip",
+      "downloadPath": "downloads/VtekDevelopmentSuit/LowcodeServer/1.0.0/LowcodeServer-1.0.0.zip",
+      "sizeBytes": 9412,
+      "sizeFormatted": "9.2 KB",
+      "sha256": "76dbe494973f80cb8966d360907d89d68cf5563d23a7c7fb2762f8fcede78544"
+    }
+  ]
+}

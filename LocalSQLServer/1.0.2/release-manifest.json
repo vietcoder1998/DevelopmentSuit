@@ -1,0 +1,56 @@
+{
+  "projectName": "LocalSQLServer",
+  "appName": "localsqlserver",
+  "displayName": "LocalSQLServer Database Engine",
+  "version": "1.0.2",
+  "buildTimestamp": "2026-10-03T03:23:57.719Z",
+  "distributionChannel": "stable",
+  "structureFormat": "downloads/VtekDevelopmentSuit/{app}/{version}/{name}.{type}",
+  "outputDirectory": "/home/viettd/Projects/2tek-developement-packs/downloads/VtekDevelopmentSuit/LocalSQLServer/1.0.2",
+  "packages": [
+    {
+      "platform": "linux",
+      "architecture": "amd64",
+      "type": "deb",
+      "name": "LocalSQLServer-1.0.2",
+      "fileName": "LocalSQLServer-1.0.2.deb",
+      "downloadPath": "downloads/VtekDevelopmentSuit/LocalSQLServer/1.0.2/LocalSQLServer-1.0.2.deb",
+      "sizeBytes": 149440,
+      "sizeFormatted": "145.9 KB",
+      "sha256": "a9050b0c9db7ba806a1c228e04a21e6821215331297dece441729373642f9fdf"
+    },
+    {
+      "platform": "windows",
+      "architecture": "x64",
+      "type": "exe",
+      "name": "LocalSQLServer-1.0.2",
+      "fileName": "LocalSQLServer-1.0.2.exe",
+      "downloadPath": "downloads/VtekDevelopmentSuit/LocalSQLServer/1.0.2/LocalSQLServer-1.0.2.exe",
+      "sizeBytes": 99328,
+      "sizeFormatted": "97.0 KB",
+      "sha256": "b48abd644093aceaf9bde398de94dd232ff009c31545f4a66633a04f7829f6db"
+    },
+    {
+      "platform": "macos",
+      "architecture": "universal",
+      "type": "dmg",
+      "name": "LocalSQLServer-1.0.2",
+      "fileName": "LocalSQLServer-1.0.2.dmg",
+      "downloadPath": "downloads/VtekDevelopmentSuit/LocalSQLServer/1.0.2/LocalSQLServer-1.0.2.dmg",
+      "sizeBytes": 96715,
+      "sizeFormatted": "94.4 KB",
+      "sha256": "a1e586e2ae4dc2bbbfc9c9b3c73cd22c0b2120f3c277060cab475c0b4a05247f"
+    },
+    {
+      "platform": "universal",
+      "architecture": "all",
+      "type": "zip",
+      "name": "LocalSQLServer-1.0.2",
+      "fileName": "LocalSQLServer-1.0.2.zip",
+      "downloadPath": "downloads/VtekDevelopmentSuit/LocalSQLServer/1.0.2/LocalSQLServer-1.0.2.zip",
+      "sizeBytes": 96634,
+      "sizeFormatted": "94.4 KB",
+      "sha256": "580faba98687e9675aa70202ea8ff91777e0719a17a7abc0223cb63d9a677bea"
+    }
+  ]
+}
