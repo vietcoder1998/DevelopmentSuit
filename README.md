@@ -8,7 +8,7 @@
 > 🎯 **Canonical Target**:
 > Dedicated repository strictly used for displaying public binary packages and installers of 2tek-development-packs: zero source code, zero scripts, no package.json, pure distribution binaries and metadata.
 >
-> 🔗 **Standalone Git Repository — [github.com/tranduyviet/VtekDevelopmentSuit](https://github.com/tranduyviet/VtekDevelopmentSuit)**:
+> 🔗 **Standalone Git Repository — [github.com/vietcoder1998/DevelopmentSuit](https://github.com/vietcoder1998/DevelopmentSuit)**:
 > This is an independent, dedicated public project distribution repository (lives at `~/Projects/VtekDevelopmentSuit`) matching the distribution architecture of VTekOfficeSuit.
 
 ---
@@ -16,7 +16,7 @@
 ## 1. Directory Structure Standard
 
 ```
-VtekDevelopmentSuit/  (~https://github.com/tranduyviet/VtekDevelopmentSuit)
+DevelopmentSuit/  (~https://github.com/vietcoder1998/DevelopmentSuit)
 ├── .git/                                 # Dedicated distribution Git repository
 ├── README.md                             # Official release center documentation
 ├── LICENSE                               # MIT License
